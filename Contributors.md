@@ -613,4 +613,5 @@
 - [Harsa Dash](https://github.com/harsadas)
 - [Jiao Liu](https://github.com/ildnyy)
 - [Leonel Santos](https://github.com/leonelSantos)
+- [Girish Jangam](https://github.com/girish-jangam1)
 <!-- prettier-ignore-end -->
